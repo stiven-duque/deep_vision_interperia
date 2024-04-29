@@ -1,0 +1,4 @@
+__pycache__/
+images_cropped/
+model_Vgg16
+model_Vgg16_0.6
