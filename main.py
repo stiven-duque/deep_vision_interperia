@@ -1,6 +1,6 @@
 from image_processing import split_image, calculate_entropy, calculate_complexity, discard_images
 from test_model import test_model
-from vgg_model import ModifiedVGG16Model
+from vgg_model import ModifiedVGG16Model, FusionVGG16Model
 import torch
 
 if __name__ == '__main__':

@@ -25,7 +25,9 @@ Este módulo contiene una función para probar un modelo de aprendizaje profundo
 Este módulo contiene una implementación modificada del modelo VGG16 para la detección de armas de fuego.
 
 - `ModifiedVGG16Model`: Clase que implementa el modelo VGG16 modificado.
+- `FusionVGG16Model`: Clase que implementa el modelo VGG16 fusionado.
 
+Nota: `FusionVGG16Model` La generación de los boudingboxes aun estan en desarrollo
 ## Instalación
 
 1. Clona el repositorio:
